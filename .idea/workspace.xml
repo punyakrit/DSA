@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b98a45fb-d27a-4194-857b-b9309a6c161b" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/Java/introduction/Inputs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/introduction/Primitives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/introduction/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/loops/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/loops/conditions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/loops/loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/loops/occurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/loops/reverse_no.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +44,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TypeCasting">
-    <configuration name="Inputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.introduction.Inputs" />
+  <component name="RunManager" selected="Application.reverse_no">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.loops.Fibonacci" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.introduction.*" />
+          <option name="PATTERN" value="Java.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primitives" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.introduction.Primitives" />
+    <configuration name="conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.loops.conditions" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.introduction.*" />
+          <option name="PATTERN" value="Java.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +71,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.introduction.TypeCasting" />
+    <configuration name="loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.loops.loops" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.introduction.*" />
+          <option name="PATTERN" value="Java.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="occurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.loops.occurance" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverse_no" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.loops.reverse_no" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,9 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TypeCasting" />
-        <item itemvalue="Application.Inputs" />
-        <item itemvalue="Application.Primitives" />
+        <item itemvalue="Application.reverse_no" />
+        <item itemvalue="Application.occurance" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.loops" />
+        <item itemvalue="Application.conditions" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676387624008</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial">
+      <created>1676816066507</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676816066507</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
