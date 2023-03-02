@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b98a45fb-d27a-4194-857b-b9309a6c161b" name="Changes" comment="loops">
-      <change afterPath="$PROJECT_DIR$/src/Java/Function/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Function/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java/Function/changingValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +40,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringExample">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.loops.Fibonacci" />
+  <component name="RunManager" selected="Application.changingValue">
+    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Function.StringExample" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.loops.*" />
+          <option name="PATTERN" value="Java.Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Function.StringExample" />
+    <configuration name="changingValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.Function.changingValue" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.changingValue" />
         <item itemvalue="Application.StringExample" />
         <item itemvalue="Application.sum" />
         <item itemvalue="Application.reverse_no" />
         <item itemvalue="Application.occurance" />
-        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
