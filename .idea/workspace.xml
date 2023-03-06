@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b98a45fb-d27a-4194-857b-b9309a6c161b" name="Changes" comment="function swaping">
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/PassingInFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Function/Shadowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java/Function/isPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions.java" afterDir="false" />
+    <list default="true" id="b98a45fb-d27a-4194-857b-b9309a6c161b" name="Changes" comment="Array">
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/ColNotFixed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/Inputin2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/MultiDimensionArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/Arrays/PassingInFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/Arrays/PassingInFunctions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +43,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.input">
-    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.Basics" />
+  <component name="RunManager" selected="Application.ColNotFixed">
+    <configuration name="ColNotFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.ColNotFixed" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -59,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shadowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Function.Shadowing" />
+    <configuration name="Inputin2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.Inputin2D" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.Function.*" />
+          <option name="PATTERN" value="DSA.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +70,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="changingValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Function.changingValue" />
+    <configuration name="MultiDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.MultiDimensionArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java.Function.*" />
+          <option name="PATTERN" value="DSA.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassingInFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.PassingInFunctions" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java.Function.isPrime" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java.Function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ColNotFixed" />
+        <item itemvalue="Application.Inputin2D" />
+        <item itemvalue="Application.MultiDimensionArray" />
+        <item itemvalue="Application.PassingInFunctions" />
         <item itemvalue="Application.input" />
-        <item itemvalue="Application.Basics" />
-        <item itemvalue="Application.isPrime" />
-        <item itemvalue="Application.Shadowing" />
-        <item itemvalue="Application.changingValue" />
       </list>
     </recent_temporary>
   </component>
@@ -158,13 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677780953575</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Array">
+      <created>1678027735102</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678027735102</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="loops" />
     <MESSAGE value="function swaping" />
-    <option name="LAST_COMMIT_MESSAGE" value="function swaping" />
+    <MESSAGE value="Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array" />
   </component>
 </project>
