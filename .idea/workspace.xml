@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b98a45fb-d27a-4194-857b-b9309a6c161b" name="Changes" comment="Array -2D">
-      <change afterPath="$PROJECT_DIR$/src/DSA/ArrayList/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/ArrayList/MultiAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/Questions/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/Questions/Swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiAL">
+  <component name="RunManager" selected="Application.Max">
     <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DSA.ArrayList.Basic" />
       <module name="DSA" />
@@ -59,25 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ColNotFixed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.ColNotFixed" />
+    <configuration name="Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.Questions.Max" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSA.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inputin2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.Inputin2D" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSA.Arrays.*" />
+          <option name="PATTERN" value="DSA.Arrays.Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.Questions.Swap" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.Arrays.Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Max" />
+        <item itemvalue="Application.Swap" />
         <item itemvalue="Application.MultiAL" />
         <item itemvalue="Application.Basic" />
         <item itemvalue="Application.Questions" />
-        <item itemvalue="Application.ColNotFixed" />
-        <item itemvalue="Application.Inputin2D" />
       </list>
     </recent_temporary>
   </component>
